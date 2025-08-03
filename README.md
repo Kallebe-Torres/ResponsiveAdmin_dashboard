@@ -16,6 +16,5 @@ Este é um painel de controle responsivo criado utilizando HTML, CSS e JavaScrip
 - **CSS**: Estilização e layout responsivo. Utilização de variáveis para personalização de cores e bordas.
 - **JavaScript**: Funcionalidade interativa, como alternância entre temas e outras ações dinâmicas.
 
-## Visualizar
-![Acesse Aqui](kallebe-torres.github.io/ResponsiveAdmin_dashboard)
+
 
